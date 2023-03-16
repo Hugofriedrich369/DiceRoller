@@ -31,7 +31,6 @@ class MainActivity : AppCompatActivity() {
             val diceRoll = dice.roll()
 
             resultTextView.text = diceRoll.toString()
-
         }
 
     }
