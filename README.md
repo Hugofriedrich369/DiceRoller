@@ -11,3 +11,7 @@ DiceRoller é um projeto desenvolvido durante o andamento das aulas de PROGRAMA�
 A performance do aplicativo consiste em gerar uma ordem aleatória de números, no qual será exibido para o usuário através de imagens de dados com o valor indeterminado na escala de 1 a 6.
 
 ## 🖼️ | Imagem do aplicativo
+<div align="center">
+<img src="./imagensreadme/DiceRoller.png">
+  </div>
+  
