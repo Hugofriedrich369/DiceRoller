@@ -15,3 +15,7 @@ A performance do aplicativo consiste em gerar uma ordem aleatória de números, 
 <img src="./imagensreadme/DiceRoller.png">
   </div>
   
+## 🌐 | Links
+A android possui um site para a montagem deste projeto, no qual seguindo o passo a passo você chega a esse resultado.
+
+https://developer.android.com/codelabs/basic-android-kotlin-training-create-dice-roller-app-with-button?hl=pt-br#0
